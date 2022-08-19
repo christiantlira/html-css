@@ -1,0 +1,10 @@
+body {
+    background-image: url('https://static.wikia.nocookie.net/hunterxhunter/images/3/3e/HxH2011_EP147_Gon_Portrait.png/revision/latest?cb=20220624211002');
+    background-size: 200px;
+
+    /*
+    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    */
+}
